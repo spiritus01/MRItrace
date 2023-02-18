@@ -5,3 +5,5 @@ It reads NIfTI format MRI data files for manual tracing and write binary mask fi
 It was created with the Matlab AppDesigner, so you need a Matlab to use it.  Typing "MRItrace" in a Matlab Command Window will open it.
 
 A standalone version of MRItrace will be available soon. 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7651838.svg)](https://doi.org/10.5281/zenodo.7651838)
