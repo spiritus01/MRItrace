@@ -1,4 +1,4 @@
-# MRItrace
+# MRItrace: a multi-view manual tracing tool for creating a region of interest mask for a complex brain structure
 *MRItrace* a matlab-based GUI program developed for manual tracing of complex brain structures to create a MRI mask files. 
 It reads NIfTI format MRI data files for manual tracing and write binary mask files in NIfTI format. 
 
